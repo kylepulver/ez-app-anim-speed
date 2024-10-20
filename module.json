@@ -1,0 +1,65 @@
+{
+    "id": "ez-app-anim-speed",
+    "title": "EZ Application Animation Speed",
+    "description": "Overrides the animation speeds in jquery with faster values.",
+  "authors": [
+    {
+      "name": "kyle pulver",
+      "url": "https://github.com/kylepulver/ez-app-anim-speed"
+    }
+  ],
+  "url": "https://github.com/kylepulver/ez-app-anim-speed",
+  "version": "8",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12.331",
+    "maximum": "12"
+  },
+  "esmodules": [
+    "appanimspeed.js"
+  ],
+  "scripts": [
+  ],
+  "styles": [
+    "appanimspeed.css"
+  ],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "en.json"
+    }
+  ],
+  "packs": [],
+  "relationships": {
+    "systems": [
+    ],
+    "requires": [
+    ],
+    "optional": [],
+    "flags": {
+      "optional": []
+    }
+  },
+  "flags": {
+    "hotReload": {
+      "extensions": [
+        "css",
+        "html",
+        "hbs",
+        "json"
+      ],
+      "paths": [
+        "styles",
+        "languages"
+      ]
+    }
+  },
+  "socket": false,
+  "manifest": "https://raw.githubusercontent.com/kylepulver/ez-app-anim-speed/main/module.json",
+  "download": "https://github.com/kylepulver/ez-app-anim-speed/archive/refs/heads/main.zip",
+  "readme": "https://github.com/kylepulver/ez-app-anim-speed",
+  "protected": false,
+  "coreTranslation": false,
+  "library": false
+}
